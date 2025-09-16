@@ -5,7 +5,7 @@
     <title>Welcome</title>
     <style>
         body {
-            background-color: skyblue;  /* background set to sky blue */
+            background-color: red;  /* background set to red */
             color: #000;                /* black text */
             font-family: Arial, sans-serif;
             text-align: center;
@@ -15,6 +15,6 @@
     </style>
 </head>
 <body>
-    WELCOME TO DEVOPS WORLD
+    WELCOME TO DEVOPS WORLD...WITH HARD WORK AND EFFORTS, YOU CAN ACHIEVE ANYTHING
 </body>
 </html>
